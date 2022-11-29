@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://uzairsyed.vercel.app/",
   name: "Syed Uzair",
   jobDescription: "Web Developer",
   about: `I'm a diploma student in Government Polytechnic Mumbai. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I am skilled in Front-end Development. I have knowledge in HTML, CSS, JavaScript, StyledComponent, Hence, I have successfully completed several web projects from scratch. Yet, I learn continuously and never stop exploring new technologies. So, I have also gained knowledge of MySql, Mongo DB, C, C++ Python & firebase.`
