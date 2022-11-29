@@ -38,7 +38,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/Youknowzair/astro-portfolio10",
-      liveUrl: "https://astro-portfolio-uzairaman10.vercel.app/",
+      liveUrl: "https://uzairaman.vercel.app/",
     },
   ],
   
